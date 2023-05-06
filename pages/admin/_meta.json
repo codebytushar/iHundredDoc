@@ -1,3 +1,7 @@
 {
-  "dashboard": "Dashboard"
+  "dashboard": "Dashboard",
+  "allocatestaff": "Allocate Staff",
+  "deallocatestaff": "De-Allocate Staff",
+  "viewpointsreport": "View Points Report",
+  "viewmaster": "View Master Details"
 }
