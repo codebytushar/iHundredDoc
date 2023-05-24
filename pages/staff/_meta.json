@@ -1,4 +1,6 @@
 {
   "dashboard": "Dashboard",
-  "approveactivities": "Approve Activities"
+  "summary": "Summary",
+  "students": "Students",
+  "approveactivities": "Approve"
 }
